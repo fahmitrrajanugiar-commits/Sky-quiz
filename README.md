@@ -13,7 +13,7 @@ font2 = font.SysFont('Arial', 36)
 
 #background music
 mixer.init()
-mixer.music.load('space.ogg')
+mixer.music.load('background.ogg')
 mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
 #we need the following images:
